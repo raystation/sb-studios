@@ -2,4 +2,4 @@
 SB-STUDIOS
 ========================
 
-simple information website.
+simple information website about our game company.
