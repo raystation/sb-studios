@@ -18,10 +18,10 @@
 
 	<!-- CSS
   ================================================== -->
-	<link rel="stylesheet" href="/css/base.css">
-	<link rel="stylesheet" href="/css/skeleton.css">
-	<link rel="stylesheet" href="/css/layout.css">
-	<link rel="stylesheet" href="/css/style.css">
+	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/skeleton.css">
+	<link rel="stylesheet" href="css/layout.css">
+	<link rel="stylesheet" href="css/style.css">
 	
 	<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
 	<script src="js/smoothScroll.js" type="text/javascript"></script>
@@ -32,10 +32,10 @@
 
 	<!-- Favicons
 	================================================== -->
-	<link rel="shortcut icon" href="/img/favicon.ico">
-	<link rel="apple-touch-icon" href="/img/apple-touch-icon.png">
-	<link rel="apple-touch-icon" sizes="72x72" href="/img/apple-touch-icon-72x72.png">
-	<link rel="apple-touch-icon" sizes="114x114" href="/img/apple-touch-icon-114x114.png">
+	<link rel="shortcut icon" href="img/favicon.ico">
+	<link rel="apple-touch-icon" href="img/apple-touch-icon.png">
+	<link rel="apple-touch-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
+	<link rel="apple-touch-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
 	
 </head>
 <body>
@@ -43,7 +43,7 @@
 	<!--header-->
 	<div class="container add-bottom">
 		<div class="sixteen columns center logocontainer">
-			<a href="<?php echo $homelink ;?>"><img src="/img/sb_logo.png" class="scale-with-grid"/></a>
+			<a href="<?php echo $homelink ;?>"><img src="img/sb_logo.png" class="scale-with-grid"/></a>
 			<hr class="half-bottom">
 			<!-- <p class="half-bottom"><a href="projects.html">projects</a> | services | <a href="us.html">about us</a> | news</p> -->
 			
