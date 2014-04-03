@@ -23,8 +23,8 @@
 			<div class="four columns">
 				<h5 class="footer">Social</h5>
 				<p>
-					<a href="https://www.facebook.com/SuspendedBeliefStudios">Facebook</a><br/>
-					<a href="http://www.twitter.com/Storyingames">Twitter</a>
+					<a target="_blank" href="https://www.facebook.com/SuspendedBeliefStudios">Facebook</a><br/>
+					<a target="_blank" href="http://www.twitter.com/Storyingames">Twitter</a>
 				</p>
 			</div>
 			
