@@ -22,16 +22,10 @@
 	<!-- CSS
   ================================================== -->
 	
-	<link rel="stylesheet" href="<?php echo BASE_URL . 'css/base.css';?>">
-	<link rel="stylesheet" href="<?php echo BASE_URL . 'css/skeleton.css';?>">
-	<link rel="stylesheet" href="<?php echo BASE_URL . 'css/layout.css';?>">
-	<link rel="stylesheet" href="<?php echo BASE_URL . 'css/style.css';?>">
-
-
-<!-- 	<link rel="stylesheet" href="css/base.css">
+	<link rel="stylesheet" href="css/base.css">
 	<link rel="stylesheet" href="css/skeleton.css">
 	<link rel="stylesheet" href="css/layout.css">
-	<link rel="stylesheet" href="css/style.css"> -->
+	<link rel="stylesheet" href="css/style.css">
 	
 	<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
 	<script src="js/smoothScroll.js" type="text/javascript"></script>
