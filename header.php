@@ -1,6 +1,3 @@
-<?php require 'config.php' ;?>
-
-
 <!DOCTYPE html>
 <!--[if lt IE 7 ]><html class="ie ie6" lang="en"> <![endif]-->
 <!--[if IE 7 ]><html class="ie ie7" lang="en"> <![endif]-->
@@ -18,7 +15,6 @@
 	<!-- Mobile Specific Metas
   ================================================== -->
 	<meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=no" />
-	<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
 
 	<!-- CSS
   ================================================== -->
