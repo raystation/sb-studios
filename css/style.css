@@ -1,14 +1,35 @@
+@import url(http://fonts.googleapis.com/css?family=Arvo:400,700);
 * {
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
   box-sizing: border-box; }
+
+/* #Basic Styles================================================== */
+body {
+  background: white;
+  color: black;
+  font-family: "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  line-height: 1.5em;
+  -webkit-font-smoothing: antialiased;
+  -webkit-text-size-adjust: 100%; }
 
 body, html {
   padding: 0;
   margin: 0; }
 
 .scale-with-grid2 {
-  width: 100%; }
+  width: 100%;
+  height: auto; }
+
+.center {
+  text-align: center; }
+
+.visible {
+  border: 1px dotted red;
+  background: silver; }
+
+.right {
+  text-align: right; }
 
 .title {
   font-family: "Helvetica", Arial, sans-serif; }
@@ -18,23 +39,12 @@ hr {
   margin: 10px 0 5px 0;
   padding: 0; }
 
-.center {
-  text-align: center; }
+h1, h2, h3, h4, h5 {
+  font-family: Arvo, "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif; }
 
 div.header {
   background: silver;
   padding: 4px; }
-
-.visible {
-  border: 1px dotted red;
-  background: silver; }
-
-.right {
-  text-align: right; }
-
-.testImage {
-  width: 100%;
-  background: silver; }
 
 #short {
   height: 200px; }
@@ -51,6 +61,11 @@ div.header {
 .footer {
   background: silver;
   color: gray; }
+  .footer a {
+    color: inherit;
+    text-decoration: none; }
+    .footer a:hover {
+      color: black; }
 
 .add-padding {
   padding-top: 40px;
@@ -72,13 +87,6 @@ div.header {
   padding: 10px;
   z-index: 20;
   background: silver; }
-
-.footer a {
-  color: inherit;
-  text-decoration: none; }
-
-.footer a:hover {
-  color: black; }
 
 .fade img {
   opacity: 1;
@@ -102,7 +110,6 @@ div.header {
 @-webkit-keyframes dangle {
   50% {
     -webkit-transform: translate(0, -10px); } }
-
 /* #Media Queries================================================== */
 /* Smaller than standard 960 (devices and browsers) */
 /* Tablet Portrait size to standard 960 (devices and browsers) */
