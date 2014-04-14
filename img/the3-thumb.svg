@@ -3,28 +3,28 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 width="500px" height="500px" viewBox="0 0 500 500" enable-background="new 0 0 500 500" xml:space="preserve">
-<rect x="-8" y="-6" fill="#FCEE7B" width="514" height="515"/>
 <g>
-	<path fill="#9B2063" d="M340.528,64.7L155.97,73.052c0,0-53.012,168.691-53.012,173.699c0,5.015,44.97,161.988,44.97,161.988
-		L306.695,433.8l73.999-134.809L340.528,64.7z"/>
-	<polygon fill="#831453" points="380.694,298.991 342.08,73.865 259.945,267.336 150.056,408.84 306.695,433.8 	"/>
-	<g>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="10.4602" stroke-miterlimit="10" x1="180.411" y1="102.853" x2="223.951" y2="99.535"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="10.4602" stroke-miterlimit="10" x1="202.18" y1="101.195" x2="201.625" y2="141.914"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="10.4602" stroke-miterlimit="10" x1="235.249" y1="94.017" x2="234.252" y2="139.638"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="10.4602" stroke-miterlimit="10" x1="254.825" y1="92.602" x2="255.346" y2="138.29"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="10.4602" stroke-miterlimit="10" x1="233.786" y1="117.803" x2="254.757" y2="116.267"/>
-		<polyline fill="none" stroke="#FFFFFF" stroke-width="10.4602" stroke-miterlimit="10" points="306.156,94.085 270.988,96.413 
-			270.479,133.819 305.899,131.321 		"/>
-		
-			<line fill="none" stroke="#FFFFFF" stroke-width="10.4602" stroke-miterlimit="10" x1="270.734" y1="115.115" x2="302.505" y2="112.454"/>
-	</g>
-	<path fill="none" stroke="#FFFFFF" stroke-width="23.7965" stroke-linejoin="bevel" stroke-miterlimit="10" d="M183.613,184.77
-		l120.421-8.623l-86.026,70.333c0,0,133.645-14.278,98.783,70.928c-34.861,85.209-139.954,32.628-139.954,32.628"/>
+	<polygon fill="#9B2063" points="1.001,500.001 100.162,500.001 263.556,290 386.892,-1 1.001,-1 	"/>
+	<polygon fill="#831453" points="100.162,500.001 500,500.001 500,-1 386.892,-1 263.556,290 	"/>
 </g>
+<rect x="-8" y="-627" fill="#9B2063" width="514" height="515"/>
+<polygon fill="#831453" points="678.5,-688.5 417.5,-688.5 265.556,-330 70.5,-80.5 531.5,-93.5 "/>
+<g>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="12.1203" stroke-miterlimit="10" x1="167.851" y1="98.681" x2="218.301" y2="94.836"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="12.1203" stroke-miterlimit="10" x1="193.075" y1="96.759" x2="192.432" y2="143.941"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="12.1203" stroke-miterlimit="10" x1="231.392" y1="88.442" x2="230.237" y2="141.304"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="12.1203" stroke-miterlimit="10" x1="254.075" y1="86.803" x2="254.679" y2="139.742"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="12.1203" stroke-miterlimit="10" x1="229.697" y1="116.003" x2="253.996" y2="114.224"/>
+	<polyline fill="none" stroke="#FFFFFF" stroke-width="12.1203" stroke-miterlimit="10" points="313.553,88.521 272.804,91.219 
+		272.213,134.561 313.254,131.667 	"/>
+	
+		<line fill="none" stroke="#FFFFFF" stroke-width="12.1203" stroke-miterlimit="10" x1="272.509" y1="112.889" x2="309.322" y2="109.806"/>
+</g>
+<path fill="none" stroke="#FFFFFF" stroke-width="27.5732" stroke-linejoin="bevel" stroke-miterlimit="10" d="M171.561,193.599
+	l139.533-9.992l-99.679,81.496c0,0,154.856-16.544,114.461,82.185c-40.395,98.732-162.167,37.807-162.167,37.807"/>
 </svg>

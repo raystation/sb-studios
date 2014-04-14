@@ -52,7 +52,7 @@
 ================================================== */
 	body {
 		background: #fff;
-		font: 14px/21px "HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
+		font: 14px/21px 'Open Sans',"HelveticaNeue", "Helvetica Neue", Helvetica, Arial, sans-serif;
 		color: #444;
 		-webkit-font-smoothing: antialiased; /* Fix for webkit rendering */
 		-webkit-text-size-adjust: 100%;
@@ -63,7 +63,7 @@
 ================================================== */
 	h1, h2, h3, h4, h5, h6 {
 		color: #181818;
-		font-family: "Helvetica", "Arial", sans-serif;
+		font-family: 'Open Sans', "Helvetica", "Arial", sans-serif;
 		font-weight: bold; }
 	h1 a, h2 a, h3 a, h4 a, h5 a, h6 a { font-weight: inherit; }
 	h1 { font-size: 46px; line-height: 50px; margin-bottom: 14px;}
@@ -71,7 +71,7 @@
 	h3 { font-size: 28px; line-height: 34px; margin-bottom: 8px; }
 	h4 { font-size: 21px; line-height: 30px; margin-bottom: 4px; }
 	h5 { font-size: 17px; line-height: 24px; }
-	h6 { font-size: 14px; line-height: 21px; }
+	h6 { font-size: 1em; }
 	.subheader { color: #777; }
 
 	p { margin: 0 0 20px 0; }
@@ -122,7 +122,9 @@
 	img.scale-with-grid {
 		max-width: 100%;
 		height: auto; }
-
+	img.scale-with-grid2 {
+		width: 100%;
+		height: auto; }
 
 /* #Buttons
 ================================================== */
