@@ -102,7 +102,6 @@ div.header {
 @-webkit-keyframes dangle {
   50% {
     -webkit-transform: translate(0, -10px); } }
-
 /* #Media Queries================================================== */
 /* Smaller than standard 960 (devices and browsers) */
 /* Tablet Portrait size to standard 960 (devices and browsers) */
