@@ -19,14 +19,25 @@
 	<!-- CSS
   ================================================== -->
 	
+	<link rel="stylesheet" href="css/jquery.bxslider.css">	
 	<link rel="stylesheet" href="css/base.css">
 	<link rel="stylesheet" href="css/skeleton.css">
 	<link rel="stylesheet" href="css/layout.css">
 	<link rel="stylesheet" href="css/style.css">
-	
+
 	<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
 	<script src="js/smoothScroll.js" type="text/javascript"></script>
-
+	<script src="js/jquery.bxslider.min.js" type="text/javascript"></script>
+	<script>
+		$(document).ready(function(){
+		  $('.bxslider').bxSlider({
+		  	easing: 'ease-in-out',
+		  	controls: false,
+		  	pager: false
+		  });
+		});
+	</script>
+	
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
