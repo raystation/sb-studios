@@ -19,25 +19,11 @@
 	<!-- CSS
   ================================================== -->
 	
-	<link rel="stylesheet" href="css/jquery.bxslider.css">	
+	<link rel="stylesheet" href="slick/slick.css">	
 	<link rel="stylesheet" href="css/base.css">
 	<link rel="stylesheet" href="css/skeleton.css">
-	<link rel="stylesheet" href="css/layout.css">
 	<link rel="stylesheet" href="css/style.css">
 
-	<script src="http://code.jquery.com/jquery-latest.js" type="text/javascript"></script>
-	<script src="js/smoothScroll.js" type="text/javascript"></script>
-	<script src="js/jquery.bxslider.min.js" type="text/javascript"></script>
-	<script>
-		$(document).ready(function(){
-		  $('.bxslider').bxSlider({
-		  	easing: 'ease-in-out',
-		  	controls: false,
-		  	pager: false
-		  });
-		});
-	</script>
-	
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 	<![endif]-->
@@ -55,7 +41,7 @@
 	<!--header-->
 	<div class="container add-bottom">
 		<div class="sixteen columns center logocontainer">
-			<a href="<?php echo $homelink ;?>"><img src="img/sb_logo.png" class="scale-with-grid"/></a>
+			<a href="<?php echo $homelink ;?>"><img src="img/sb_logo_white.svg" class="scale-with-grid"/></a>
 			<!-- <p class="half-bottom"><a href="projects.html">projects</a> | services | <a href="us.html">about us</a> | news</p> -->
 			
 		</div>

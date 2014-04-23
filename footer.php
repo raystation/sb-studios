@@ -33,5 +33,18 @@
 
 <!-- End Document
 ================================================== -->
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.11.0.min.js"></script>
+<script type="text/javascript" src="http://code.jquery.com/jquery-migrate-1.2.1.min.js"></script>
+<script type="text/javascript" src="slick/slick.min.js"></script>
+
+<script>
+	$(document).ready(function(){
+		$('.slick').slick({
+			dots: true,
+		});
+	});	
+</script>
+
+
 </body>
 </html>
