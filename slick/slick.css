@@ -12,7 +12,8 @@
   user-select: none;
   -ms-touch-action: none;
   touch-action: none;
-  -webkit-tap-highlight-color: transparent; }
+  -webkit-tap-highlight-color: transparent;
+  margin-bottom: 40px; }
 
 .slick-list {
   position: relative;
@@ -125,8 +126,7 @@
 
 /* Dots */
 .slick-slider {
-  margin-bottom: 30px;
-  padding-bottom: 15px; }
+  margin-bottom: 10px; }
 
 .slick-dots {
   position: absolute;

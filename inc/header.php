@@ -37,12 +37,28 @@
 	
 </head>
 <body>
-
+	
 	<!--header-->
-	<div class="container add-bottom">
-		<div class="sixteen columns center logocontainer">
-			<a href="<?php echo $homelink ;?>"><img src="img/sb_logo_white.svg" class="scale-with-grid"/></a>
-			<!-- <p class="half-bottom"><a href="projects.html">projects</a> | services | <a href="us.html">about us</a> | news</p> -->
-			
-		</div>
+	
+	
+
+	<?php  
+
+	if ( $title == "Suspended Belief Studios") {
+		echo '<div class="container add-bottom"><div class="sixteen columns center logocontainer ">
+			<a href="index.php"><img src="img/sb_logo_white.svg" class="scale-with-grid"/></a>
+		</div>';
+	} else {
+		echo '<div class="container add-top"><div class="sixteen columns"><a href="index.php"><h4 class="blurb">Suspended Belief Studios</h4></a></div>';
+	}
+
+	;?>
+
 	</div>
+	
+	<?php if ( $title=="Suspended Belief Studios" ) {
+		echo '<div class="container add-bottom" style="top: -100px">';
+	} else {
+		echo '<div class="container add-bottom">';
+	}
+	;?>
