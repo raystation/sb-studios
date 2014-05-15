@@ -46,10 +46,10 @@
 
 	if ( $title == "Suspended Belief Studios") {
 		echo '<div class="container add-bottom"><div class="sixteen columns center logocontainer ">
-			<a href="index.php"><img src="img/sb_logo_white.svg" class="scale-with-grid"/></a>
+			<a href="home"><img src="img/sb_logo_white.svg" class="scale-with-grid"/></a>
 		</div>';
 	} else {
-		echo '<div class="container add-top"><div class="sixteen columns"><a href="index.php"><h4 class="blurb">Suspended Belief Studios</h4></a></div>';
+		echo '<div class="container add-top"><div class="sixteen columns"><a href="home"><h4 class="blurb">Suspended Belief Studios</h4></a></div>';
 	}
 
 	;?>
