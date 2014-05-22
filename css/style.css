@@ -68,8 +68,13 @@ div.header {
   padding: 4px; }
 
 a, a:visited {
-  color: white;
-  text-decoration: none; }
+  color: #cccccc;
+  text-decoration: none;
+  -webkit-transition: all 0.25s ease-in-out;
+  -moz-transition: all 0.25s ease-in-out;
+  transition: all 0.25s ease-in-out; }
+  a:hover, a:visited:hover {
+    color: gray; }
 
 .full {
   background-color: #333333;
@@ -120,6 +125,7 @@ a, a:visited {
 @-webkit-keyframes dangle {
   50% {
     -webkit-transform: translate(0, -10px); } }
+
 .slick {
   margin-bottom: 10px; }
 
